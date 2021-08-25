@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BubblesortExample/src"/>
+	<classpathentry kind="src" path="CavalosJava/ArvoreBinaria/src"/>
+	<classpathentry kind="src" path="CavalosJava/src"/>
+	<classpathentry kind="src" path="HomensMulheresJava/src"/>
+	<classpathentry kind="src" path="JavaApplication13/src"/>
+	<classpathentry kind="src" path="JavaApplication14/src"/>
+	<classpathentry kind="src" path="JavaApplication21/src"/>
+	<classpathentry kind="src" path="LataOleoJava/src"/>
+	<classpathentry kind="src" path="MatrizJava/src"/>
+	<classpathentry kind="src" path="MediaSalarioJava/src"/>
+	<classpathentry kind="src" path="QuickSort/src"/>
+	<classpathentry kind="src" path="TemperaturaJava/src"/>
+	<classpathentry kind="output" path="BubblesortExample/build/classes"/>
+</classpath>

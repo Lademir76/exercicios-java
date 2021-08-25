@@ -1,4 +1,4 @@
-public class BubbleSortExample {  
+public class BubblleSortExample {  
     static void bubbleSort(int[] arr) {  
         int n = arr.length;  
         int temp = 0;  
@@ -16,7 +16,7 @@ public class BubbleSortExample {
   
     }  
     public static void main(String[] args) {  
-                int arr[] ={3,60,35,2,45,320,5};  
+                int arr[] ={3,60,35,2,45,320,5,23,321,202,212};  
                  
                 System.out.println("Array Antes Bubble Sort");  
                 for(int i=0; i < arr.length; i++){  
